@@ -1,1 +1,3 @@
 Text sample file
+Added this text from master branch to test integration between Git-Hub and Jenkins
+
